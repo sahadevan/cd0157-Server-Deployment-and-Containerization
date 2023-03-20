@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: sahadevan511
+    Default: sahadevan
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
